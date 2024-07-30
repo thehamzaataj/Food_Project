@@ -1,0 +1,143 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Classic Masala Chai",
+        "description": "A traditional spiced chai with a blend of aromatic spices.",
+        "items": ["Milk", "Sugar", "Tea Leaves", "Water", "Cinnamon", "Cardamom", "Cloves", "Ginger"],
+        "image": "https://example.com/classic-masala-chai.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Ginger Chai",
+        "description": "A spicy chai with an extra kick of fresh ginger.",
+        "items": ["Milk", "Sugar", "Tea Leaves", "Water", "Ginger"],
+        "image": "https://example.com/ginger-chai.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Cardamom Chai",
+        "description": "A fragrant chai with a focus on cardamom flavor.",
+        "items": ["Milk", "Sugar", "Tea Leaves", "Water", "Cardamom"],
+        "image": "https://example.com/cardamom-chai.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Cinnamon Chai",
+        "description": "Chai with a warm, comforting cinnamon twist.",
+        "items": ["Milk", "Sugar", "Tea Leaves", "Water", "Cinnamon"],
+        "image": "https://example.com/cinnamon-chai.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Vanilla Chai",
+        "description": "A sweet and creamy chai with a hint of vanilla.",
+        "items": ["Milk", "Sugar", "Tea Leaves", "Water", "Vanilla Extract"],
+        "image": "https://example.com/vanilla-chai.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Peppermint Chai",
+        "description": "A refreshing chai with a cool peppermint flavor.",
+        "items": ["Milk", "Sugar", "Tea Leaves", "Water", "Peppermint Extract"],
+        "image": "https://example.com/peppermint-chai.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Honey Chai",
+        "description": "A naturally sweetened chai using honey instead of sugar.",
+        "items": ["Milk", "Honey", "Tea Leaves", "Water"],
+        "image": "https://example.com/honey-chai.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Almond Chai",
+        "description": "A nutty chai with almond flavor.",
+        "items": ["Milk", "Sugar", "Tea Leaves", "Water", "Almond Extract"],
+        "image": "https://example.com/almond-chai.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Turmeric Chai",
+        "description": "A golden chai with the benefits of turmeric.",
+        "items": ["Milk", "Sugar", "Tea Leaves", "Water", "Turmeric"],
+        "image": "https://example.com/turmeric-chai.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Spiced Apple Chai",
+        "description": "Chai with a fruity apple and spice combination.",
+        "items": ["Milk", "Sugar", "Tea Leaves", "Water", "Apple Cider", "Cinnamon"],
+        "image": "https://example.com/spiced-apple-chai.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Coconut Chai",
+        "description": "A creamy chai with a tropical coconut twist.",
+        "items": ["Milk", "Sugar", "Tea Leaves", "Water", "Coconut Milk"],
+        "image": "https://example.com/coconut-chai.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Choco Chai",
+        "description": "A rich chai with a touch of chocolate.",
+        "items": ["Milk", "Sugar", "Tea Leaves", "Water", "Cocoa Powder"],
+        "image": "https://example.com/choco-chai.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Lavender Chai",
+        "description": "A calming chai with a hint of lavender.",
+        "items": ["Milk", "Sugar", "Tea Leaves", "Water", "Dried Lavender"],
+        "image": "https://example.com/lavender-chai.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Orange Chai",
+        "description": "Chai with a zesty orange flavor.",
+        "items": ["Milk", "Sugar", "Tea Leaves", "Water", "Orange Zest"],
+        "image": "https://example.com/orange-chai.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Masala Chai Latte",
+        "description": "A creamy, frothy chai latte with traditional spices.",
+        "items": ["Milk", "Sugar", "Tea Leaves", "Water", "Spices", "Frothy Milk"],
+        "image": "https://example.com/masala-chai-latte.jpg"
+      },
+      {
+        "id": 16,
+        "name": "Rose Chai",
+        "description": "A delicate chai with rose flavor.",
+        "items": ["Milk", "Sugar", "Tea Leaves", "Water", "Rose Water"],
+        "image": "https://example.com/rose-chai.jpg"
+      },
+      {
+        "id": 17,
+        "name": "Clove Chai",
+        "description": "Chai with a bold clove flavor.",
+        "items": ["Milk", "Sugar", "Tea Leaves", "Water", "Cloves"],
+        "image": "https://example.com/clove-chai.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Nutmeg Chai",
+        "description": "A chai with a warm, nutty touch of nutmeg.",
+        "items": ["Milk", "Sugar", "Tea Leaves", "Water", "Nutmeg"],
+        "image": "https://example.com/nutmeg-chai.jpg"
+      },
+      {
+        "id": 19,
+        "name": "Matcha Chai",
+        "description": "A vibrant chai with the addition of matcha powder.",
+        "items": ["Milk", "Sugar", "Tea Leaves", "Water", "Matcha Powder"],
+        "image": "https://example.com/matcha-chai.jpg"
+      },
+      {
+        "id": 20,
+        "name": "Fig Chai",
+        "description": "Chai with a sweet fig flavor.",
+        "items": ["Milk", "Sugar", "Tea Leaves", "Water", "Dried Figs"],
+        "image": "https://example.com/fig-chai.jpg"
+      }
+    ]}
