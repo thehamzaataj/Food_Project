@@ -33,10 +33,5 @@ A simple web application that allows users to search for food recipes using the 
 
 
 
-
-   ```bash
-   git clone https://github.com/your-username/food-recipe-finder.git
-   cd food-recipe-finder
-
 All Rights Reserved
 
